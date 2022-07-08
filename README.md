@@ -1,8 +1,9 @@
 # Isabela Costa
-- 🔭 Atualmente trabalho na Defensoria Pública da União, mas com o objetivo de mudar totalmente de carreira, me joguei na área da programação. 
-- 🌱 Estudando HTML, CSS e Javascript
-- 💬 Amante da arte, filmes de terror, tecnologia e design
-- 📫 Contate-me no e-mail: costafernandes.isabella@gmail.com
+- 👩🏻‍💻 Atualmente me encontro na transição de carreira com foco em Front-End. 
+- 📚 Estudando HTML, CSS e Javascript
+- 💬 Amante da arte, músicas antigas, tecnologia e design
+- 💪🏻 Um pouco marombeira e futura competidora do Iron Man
+- 👤 Contate-me no e-mail: costafernandes.isabella@gmail.com
 
 ##
 

@@ -1,5 +1,5 @@
 # Isabela Costa
-- 👩🏻‍💻 Atualmente me encontro na transição de carreira com foco em Front-End. 
+- 👩🏻‍💻 Atualmente me encontro na transição de carreira com foco em Back-end. 
 - 📚 Estudando HTML, CSS e Javascript
 - 💬 Amante da arte, músicas antigas, tecnologia e design
 - 💪🏻 Um pouco marombeira e futura competidora do Iron Man
